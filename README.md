@@ -1,4 +1,4 @@
-# about myself 👋
+# About myself 👋
 
 <!--
 **Tory-arch/Tory-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
